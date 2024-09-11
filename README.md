@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rakib Hossain
-- 👀 I’m interested in Computer
+- 👀 I’m interested in Tech
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on my friends
 - 📫 How to reach me ...
